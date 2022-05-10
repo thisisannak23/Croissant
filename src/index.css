@@ -9,8 +9,3 @@
 body {
   background-color: var(--bg-color);
 }
-
-.navbar{
-  background-color: var(--bg-secondary-color) !important;
-  color:var(--secondary-color) !important;
-}
